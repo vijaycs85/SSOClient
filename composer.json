@@ -1,5 +1,5 @@
 {
-  "name": "vijaycs85/SSOClient",
+  "name": "vijaycs85/sso-client",
   "type": "library",
   "minimum-stability": "dev",
   "description": "Single Sign-On client",
